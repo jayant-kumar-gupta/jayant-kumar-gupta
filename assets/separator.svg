@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="12" viewBox="0 0 900 12">
+  <!-- Left dot -->
+  <circle cx="6" cy="6" r="2.5" fill="#D4A574" opacity="0.6"/>
+  <!-- Line -->
+  <line x1="16" y1="6" x2="884" y2="6" stroke="#D4A574" stroke-width="0.8" opacity="0.3"/>
+  <!-- Right dot -->
+  <circle cx="894" cy="6" r="2.5" fill="#D4A574" opacity="0.6"/>
+</svg>
