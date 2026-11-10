@@ -64,12 +64,12 @@ Currently deepening my understanding of API architecture, database design, and s
   <summary>📊 GitHub Stats</summary>
   <br>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=jayant-kumar-gupta&show_icons=true&hide_border=true&theme=transparent&icon_color=D4A574&title_color=E8E4DF&text_color=9B9188">
-    <img height="160" src="https://github-readme-stats.vercel.app/api?username=jayant-kumar-gupta&show_icons=true&hide_border=true&theme=transparent&icon_color=D4A574&title_color=2D2D2D&text_color=555555" alt="Jayant's GitHub stats" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api?username=jayant-kumar-gupta&show_icons=true&hide_border=true&theme=transparent&icon_color=D4A574&title_color=E8E4DF&text_color=9B9188">
+    <img height="160" src="https://github-readme-stats-fast.vercel.app/api?username=jayant-kumar-gupta&show_icons=true&hide_border=true&theme=transparent&icon_color=D4A574&title_color=2D2D2D&text_color=555555" alt="Jayant's GitHub stats" />
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=jayant-kumar-gupta&layout=compact&hide_border=true&theme=transparent&title_color=E8E4DF&text_color=9B9188">
-    <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayant-kumar-gupta&layout=compact&hide_border=true&theme=transparent&title_color=2D2D2D&text_color=555555" alt="Top languages" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=jayant-kumar-gupta&layout=compact&hide_border=true&theme=transparent&title_color=E8E4DF&text_color=9B9188">
+    <img height="160" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=jayant-kumar-gupta&layout=compact&hide_border=true&theme=transparent&title_color=2D2D2D&text_color=555555" alt="Top languages" />
   </picture>
 </details>
 
